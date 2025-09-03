@@ -21,8 +21,7 @@ const Home = () => {
         { src: "/birth-2.jpg", alt: "Birthday Celebration" },
         { src: "/img-1.png", alt: "Image one" },
         { src: "/img-3.jpg", alt: "Image three" },
-        { src: "/img-4.jpg", alt: "Image four" },
-        { src: "/kim image.jpg", alt: "Kim" },
+
       ],
       stickers: [<FaStar key="star1" className="text-yellow-400 drop-shadow-lg" />],
     },
@@ -34,8 +33,6 @@ const Home = () => {
       button: "Next Surprise 🎁",
       images: [
         { src: "/birtday-wish image.jpg", alt: "Birthday Wish" },
-        { src: "/birth-2.jpg", alt: "Birthday Celebration" },
-        { src: "/img-1.png", alt: "Image one" },
         { src: "/img-3.jpg", alt: "Image three" },
         { src: "/img-4.jpg", alt: "Image four" },
         { src: "/kim image.jpg", alt: "Kim" },

@@ -64,7 +64,7 @@ const SurpriseBox = ({ onAnimationComplete }) => {
           {/* Birthday Text */}
           <div className="absolute inset-0 flex flex-col items-center justify-center z-20 animate-popOut px-4">
             <h2 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-white drop-shadow-lg p-4 rounded-xl backdrop-blur-sm bg-black bg-opacity-30">
-              🎉 Happy Birthday! 🎂
+              🎉 Happy Birthday! Ayesha  🎂
             </h2>
             <div className="flex justify-center space-x-4 sm:space-x-6 mt-6 text-pink-300 text-4xl sm:text-5xl md:text-6xl lg:text-7xl animate-bounce">
               <FaBirthdayCake />
